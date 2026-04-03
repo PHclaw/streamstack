@@ -1,0 +1,8 @@
+{
+  "name": "streamstack",
+  "description": "AI-Native Screen Recording and Voiceover Studio - open source alternative to Screen Studio with built-in AI voice narration and script generation",
+  "homepage": "https://github.com/PHclaw/streamstack",
+  "private": false,
+  "has_issues": true,
+  "has_wiki": false
+}
