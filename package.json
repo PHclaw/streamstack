@@ -75,6 +75,9 @@
     "vite": "^6.0.7",
     "vitest": "^2.1.8"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "build": {
     "appId": "com.streamstack.app",
     "productName": "StreamStack",
