@@ -163,3 +163,11 @@ MIT License — see [LICENSE](LICENSE) for details.
 Star this repo and share it with developers who need free screen recording tools!
 
 Built with ❤️ by the StreamStack Community
+
+---
+
+## 📖 Learn More
+
+Read **[My Story →](ABOUT.md)** — How StreamStack was born and what drives this project.
+
+**My Mission:** Democratize video creation for every developer. No paywalls. No watermarks. Just tools.
