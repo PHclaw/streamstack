@@ -1,0 +1,29 @@
+# StreamStack Backend Dependencies
+# Install with: pip install -r requirements.txt
+
+# Web Server
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+python-dotenv==1.0.1
+
+# AI - VibeVoice TTS & ASR
+torch==2.5.1
+torchaudio==2.5.1
+transformers==4.48.0
+accelerate==1.2.1
+
+# Optional: Better TTS (ElevenLabs)
+# elevenlabs==1.10.0
+
+# Optional: Whisper STT
+# openai-whisper==20231117
+
+# Video Processing
+ffmpeg-python==0.2.0
+
+# Utilities
+pydantic==2.10.5
+pydantic-settings==2.7.1
+httpx==0.28.1
+aiofiles==24.1.0
